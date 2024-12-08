@@ -23,7 +23,7 @@ export default [
     },
     settings: {
       react: {
-        version: "detect", // Можно указать "detect", чтобы автоматически определять установленную версию React
+        version: "detect", a
       },
     },
   },
