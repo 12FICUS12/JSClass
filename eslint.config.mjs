@@ -23,7 +23,7 @@ export default [
     },
     settings: {
       react: {
-        version: "detect", a
+        version: "detect", 
       },
     },
   },
